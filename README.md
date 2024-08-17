@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MITESH BHOIR</h1>
-<h3 align="center">A passionate Full Stack MERN Developer from India`</h3>
+<h3 align="center">A passionate Full Stack MERN Developer from India</h3>
 - 🌱 I’m currently Practising MERN Stack (MongoDB, Express.js, React, Node.js) and Data Structures and Algorithms (DSA) in Java
 
 - 💬 Ask me about React, Node.js, MongoDB, Express.js
