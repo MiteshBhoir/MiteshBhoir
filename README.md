@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm MITESH BHOIR</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from India`</h3>
-- 🌱 I’m currently Practising ****MERN Stack (MongoDB, Express.js, React, Node.js)** - **Data Structures and Algorithms (DSA) in Java****
+- 🌱 I’m currently Practising MERN Stack (MongoDB, Express.js, React, Node.js) and Data Structures and Algorithms (DSA) in Java
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js**
+- 💬 Ask me about React, Node.js, MongoDB, Express.js
 
-- 📫 How to reach me **miteshbhoirofficial@gmail.com**
+- 📫 How to reach me miteshbhoirofficial@gmail.com
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gIsBx2ZAE94L4FwFgtOW8iRncisaRGU_/edit?usp=drive_link&ouid=110686703088250669422&rtpof=true&sd=true](https://docs.google.com/document/d/1gIsBx2ZAE94L4FwFgtOW8iRncisaRGU_/edit?usp=drive_link&ouid=110686703088250669422&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1gIsBx2ZAE94L4FwFgtOW8iRncisaRGU_/edit?usp=drive_link&ouid=110686703088250669422&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I believe in the power of late-night coding sessions.**
+- ⚡ Fun fact I believe in the power of late-night coding sessions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
