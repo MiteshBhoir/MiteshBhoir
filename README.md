@@ -52,7 +52,7 @@ Currently learning **Data Structures & Algorithms in Java** 📚 and advancing m
 
 ## 📫 How to Reach Me
 - 📧 Email: **miteshbhoirofficial@gmail.com**  
-- 📞 Phone: +91 96536 36673  
+- 📞 Phone: [ +91 96536 36673 ](tel:+919653636673)
 - 🔗 LinkedIn: [linkedin.com/in/miteshbhoir](#)  
 - 💻 GitHub: [github.com/miteshbhoir](#)  
 
