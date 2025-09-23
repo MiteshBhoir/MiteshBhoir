@@ -7,13 +7,15 @@ Currently learning **Data Structures & Algorithms in Java** 📚 and advancing m
 ---
 
 ## 💼 Featured Projects
-- **QuickAI**(https://quick-ai-mu-livid.vercel.app/) — AI Content & Image Generation Platform (PERN stack) ✨  
+- [**QuickAI**](https://quick-ai-mu-livid.vercel.app/) — AI Content & Image Generation Platform (PERN stack) ✨  
   Engineered an AI platform with Clerk authentication & Gemini APIs, boosting content creation speed by 60%.
 
-- **QuickStay** — Hotel Booking & Management Platform (MERN stack) 🏨  
+- [**QuickStay**](https://quick-stay-inky.vercel.app/) — Hotel Booking & Management Platform (MERN stack) 🏨  
   Implemented Stripe payments, Nodemailer email confirmations, and an optimized booking flow reducing time by 40%.
 
-- **Tomato** — Food Ordering Platform (MERN stack) 🍅  
+- [**PingUp**](https://ping-up-social-media-website.vercel.app/) — Social Media Website 🌐  
+  Built a full-stack social media platform with user authentication, posts, likes, chats, and real-time notifications.
+- [**Tomato**](https://tomato-frontend-delta.vercel.app/) — Food Ordering Platform (MERN stack) 🍅  
   Developed a full-stack food delivery app with secure authentication, shopping cart, order management, and admin interface.
 
 ---
