@@ -50,10 +50,10 @@ Currently learning **Data Structures & Algorithms in Java** 📚 and advancing m
 
 ## 📊 GitHub Stats
 
-![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiteshBhoir&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiteshBhoir&layout=compact&theme=radical)  
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiteshBhoir&theme=react-dark&hide_border=true)
 
 ---
 
