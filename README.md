@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Mitesh Bhoir
 
 ## 👀 About Me
-I'm a **Full Stack Developer** 💻 passionate about building **scalable web apps** and exploring **AI/ML** 🤖.  
-Currently learning **Data Structures & Algorithms in Java** 📚 and advancing my skills in AI-powered web solutions.
+I'm a **Full Stack Developer** 💻 passionate about building scalable web apps and leveraging **Data Science** and **AI/ML** to create powerful solutions.
+
+Currently learning **Data Structures & Algorithms in Java** 📚 and advancing my skills in **AI-powered web solutions**.
 
 ---
 
@@ -23,6 +24,15 @@ Currently learning **Data Structures & Algorithms in Java** 📚 and advancing m
 ## 🏆 Certifications & Achievements
 - 🎓 Google Cloud Career Launchpad — Cloud Engineer Track  
 - 🎓 AWS Academy Graduate — Cloud Architecting  
+
+---
+
+## 🛠️ Skills & Technologies
+**Languages:** JavaScript, Java, Python, HTML, CSS  
+**Frameworks & Libraries:** React.js, Node.js, Express.js, Next.js, Flask, Tailwind CSS, Bootstrap  
+**Databases:** MongoDB, PostgreSQL  
+**Data Science & AI:** Python, NumPy, Pandas, Data Visualization (Matplotlib, Seaborn)  
+**Tools & Platforms:** Git, GitHub, VS Code, Docker, GCP, AWS  
 
 ---
 
