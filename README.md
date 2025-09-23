@@ -7,7 +7,7 @@ Currently learning **Data Structures & Algorithms in Java** 📚 and advancing m
 ---
 
 ## 💼 Featured Projects
-- **QuickAI** — AI Content & Image Generation Platform (PERN stack) ✨  
+- **QuickAI**(https://quick-ai-mu-livid.vercel.app/) — AI Content & Image Generation Platform (PERN stack) ✨  
   Engineered an AI platform with Clerk authentication & Gemini APIs, boosting content creation speed by 60%.
 
 - **QuickStay** — Hotel Booking & Management Platform (MERN stack) 🏨  
