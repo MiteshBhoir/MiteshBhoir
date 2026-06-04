@@ -14,11 +14,12 @@ Currently learning **Data Structures & Algorithms in Java** 📚 and advancing m
 - [**QuickStay**](https://quick-stay-inky.vercel.app/) — Hotel Booking & Management Platform (MERN stack) 🏨  
   Implemented Stripe payments, Nodemailer email confirmations, and an optimized booking flow reducing time by 40%.
 
-- [**LinkUp**](https://link-up-social-media-website.vercel.app/) — Social Media Website 🌐  
-  Built a full-stack social media platform with user authentication, posts, likes, chats, and real-time notifications.
 - [**Tomato**](https://tomato-frontend-delta.vercel.app/) — Food Ordering Platform (MERN stack) 🍅  
   Developed a full-stack food delivery app with secure authentication, shopping cart, order management, and admin interface.
 
+ - [**Car Rental**](https://car-rental-mern-website-zzqa.vercel.app/) — Full-Stack Vehicle Rental Platform 🚗 
+    Developed a full-stack car rental application using React.js, Node.js, Express.js, MongoDB, JWT, and ImageKit. Features include vehicle booking, owner dashboard, availability management, secure authentication, and responsive UI.
+ 
 ---
 
 ## 🏆 Certifications & Achievements
